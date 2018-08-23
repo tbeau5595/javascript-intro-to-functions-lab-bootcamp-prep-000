@@ -7,5 +7,6 @@ function whisper(string) {
   var toLowerCase = "hello!"
 }
 function sayHiToGrandma(string) {
+  if (string === lowercase)
   return 
 }
