@@ -2,15 +2,9 @@ function shout(string) {
   return string.toUpperCase()
 var uppercase = "HELLO!"
 }
-
-uppercase.toUpperCase() === uppercase // true
-
-var lowercase = 'hello!'
-
-lowercase.toLowerCase() === lowercase// true
-
-var mixedCase = 'Hi there!'
-
-mixedCase.toLowerCase() === mixedCase // true
-
-mixedCase.toUpperCase() === mixedCase // true
+function whisper(string) {
+  return string.toLowerCase()
+  var toLowerCase = "hello!"
+}
+function sayHiToGrandma(string) {
+  return var.
